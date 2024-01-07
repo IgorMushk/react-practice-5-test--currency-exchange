@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/IgorMushk/react-practice-5-test--currency-exchange/static/css/main.7acaea2f.css",
-    "main.js": "/IgorMushk/react-practice-5-test--currency-exchange/static/js/main.2e69ca47.js",
+    "main.js": "/IgorMushk/react-practice-5-test--currency-exchange/static/js/main.39ca0b7a.js",
     "index.html": "/IgorMushk/react-practice-5-test--currency-exchange/index.html",
     "main.7acaea2f.css.map": "/IgorMushk/react-practice-5-test--currency-exchange/static/css/main.7acaea2f.css.map",
-    "main.2e69ca47.js.map": "/IgorMushk/react-practice-5-test--currency-exchange/static/js/main.2e69ca47.js.map"
+    "main.39ca0b7a.js.map": "/IgorMushk/react-practice-5-test--currency-exchange/static/js/main.39ca0b7a.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.2e69ca47.js"
+    "static/js/main.39ca0b7a.js"
   ]
 }
