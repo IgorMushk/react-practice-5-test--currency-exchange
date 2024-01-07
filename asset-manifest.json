@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/IgorMushk/react-practice-5-test--currency-exchange/static/css/main.7acaea2f.css",
-    "main.js": "/IgorMushk/react-practice-5-test--currency-exchange/static/js/main.39ca0b7a.js",
-    "index.html": "/IgorMushk/react-practice-5-test--currency-exchange/index.html",
-    "main.7acaea2f.css.map": "/IgorMushk/react-practice-5-test--currency-exchange/static/css/main.7acaea2f.css.map",
-    "main.39ca0b7a.js.map": "/IgorMushk/react-practice-5-test--currency-exchange/static/js/main.39ca0b7a.js.map"
+    "main.css": "/react-practice-5-test--currency-exchange/static/css/main.7acaea2f.css",
+    "main.js": "/react-practice-5-test--currency-exchange/static/js/main.f82bffe8.js",
+    "index.html": "/react-practice-5-test--currency-exchange/index.html",
+    "main.7acaea2f.css.map": "/react-practice-5-test--currency-exchange/static/css/main.7acaea2f.css.map",
+    "main.f82bffe8.js.map": "/react-practice-5-test--currency-exchange/static/js/main.f82bffe8.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.39ca0b7a.js"
+    "static/js/main.f82bffe8.js"
   ]
 }
