@@ -4,9 +4,11 @@ import HomePage from "pages/HomePage/HomePage";
 import RatesPage from "pages/RatesPage/RatesPage";
 import { useEffect } from "react";
 import { getCurrentPosition } from "service/getCurrentPosition";
+import { useDispatch } from "react-redux";
+import { featchBaseCurrency } from "redux/operations";
 
 export const App = () => {
-
+  const dispatch = useDispatch()
   useEffect(()=> {
     const options = {
       enableHighAccuracy: true,
@@ -15,8 +17,8 @@ export const App = () => {
     };
     
     function success(pos) {
-      const crd = pos.coords;
-      getCurrentPosition(crd)
+      //getCurrentPosition(pos.coords)
+      dispatch(featchBaseCurrency(pos.coords));
       
       // console.log("Your current position is:");
       // console.log(`Latitude : ${crd.latitude}`);
