@@ -9,7 +9,7 @@ import { store } from 'redux/store';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
-    <BrowserRouter basename='/react-practice-5-test-task--currency-exchange'>
+    <BrowserRouter basename='/react-practice-5-test--currency-exchange'>
     <App />
     </BrowserRouter>
     </Provider>    

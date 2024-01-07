@@ -2,7 +2,7 @@
   "name": "react-practice-5-test--currency-exchange",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/IgorMushk/react-practice-5-test--currency-exchange",
+  "homepage": "https://IgorMushk/react-practice-5-test--currency-exchange",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
     "@testing-library/jest-dom": "^5.16.3",
