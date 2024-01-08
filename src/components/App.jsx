@@ -32,8 +32,8 @@ export const App = () => {
     
     navigator.geolocation.getCurrentPosition(success, error, options);
     
-  }, [])
-
+  // }, [])
+  })
   return (
     <Routes>
       <Route path="/" element={<LayoutHome/>}> 
