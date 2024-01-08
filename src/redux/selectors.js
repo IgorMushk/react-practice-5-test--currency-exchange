@@ -1,0 +1,1 @@
+export const selectorBaseCurrency = state => state.baseCurrency;
