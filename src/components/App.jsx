@@ -3,7 +3,7 @@ import { LayoutHome } from "./LayoutHome";
 import HomePage from "pages/HomePage/HomePage";
 import RatesPage from "pages/RatesPage/RatesPage";
 import { useEffect } from "react";
-import { getCurrentPosition } from "service/getCurrentPosition";
+//import { getCurrentPosition } from "service/getCurrentPosition";
 import { useDispatch } from "react-redux";
 import { featchBaseCurrency } from "redux/operations";
 
